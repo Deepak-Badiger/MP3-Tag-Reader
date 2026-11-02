@@ -1,4 +1,4 @@
-# MP3 Tag Reader
+# MP3 Tag reader
 
 **Project Description:**
 
